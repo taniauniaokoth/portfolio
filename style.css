@@ -48,7 +48,7 @@ h1 {
 }
 
 #head {
-    text-decoration: underline;
+    text-decoration: none;
     ;
 }
 
@@ -66,6 +66,3 @@ footer {
     height: 30px;
 }
 
-h5 {
-    text-decoration: underline;
-}
